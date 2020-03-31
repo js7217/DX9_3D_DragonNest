@@ -1,0 +1,7 @@
+#ifndef Enum_h__
+#define Enum_h__
+
+enum RESOURCEID { RESOURCE_STATIC, RESOURCE_LOGO, RESOURCE_STAGE, RESOURCE_END };
+enum LOADINGID  { LOADING_STAGE, LOADING_BOSS, LOADING_END };
+
+#endif // Enum_h__
